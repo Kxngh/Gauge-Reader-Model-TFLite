@@ -1,0 +1,13 @@
+train: C:\Users\sskin\Desktop\Assignment-\yolo_dataset\train
+val: C:\Users\sskin\Desktop\Assignment-\yolo_dataset\valid
+test: C:\Users\sskin\Desktop\Assignment-\yolo_dataset\test
+
+nc: 4
+names: ['Needle_Tip', 'Needle_base', 'max_value', 'min_value']
+
+roboflow:
+  workspace: assignment-codds
+  project: redo2
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/assignment-codds/redo2/dataset/1

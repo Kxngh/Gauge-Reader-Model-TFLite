@@ -1,0 +1,20 @@
+item {
+    name: "Needle_Tip",
+    id: 1,
+    display_name: "Needle_Tip"
+}
+item {
+    name: "Needle_base",
+    id: 2,
+    display_name: "Needle_base"
+}
+item {
+    name: "max_value",
+    id: 3,
+    display_name: "max_value"
+}
+item {
+    name: "min_value",
+    id: 4,
+    display_name: "min_value"
+}
